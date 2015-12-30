@@ -5,6 +5,9 @@
 /* bootstrap */
 @import url("bootstrap.min.css");
 
+/* bayboon select boxes */
+@import url("bootstrap-select.css");
+
 /* normalize */
 @import url("normalize.css");
 
